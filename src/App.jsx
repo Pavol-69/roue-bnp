@@ -14,7 +14,7 @@ export default function App() {
     { nom: "Durand", prenom: "Charlie", couleur: "#2980b9" },
     { nom: "Lefevre", prenom: "Diane", couleur: "#f1c40f" },
     { nom: "Moreau", prenom: "Eve", couleur: "#8e44ad" },
-    { nom: "Toto", prenom: "Toto", couleur: "#62ad44ff" },
+    { nom: "", prenom: "Toto", couleur: "#62ad44ff" },
   ];
 
   useEffect(() => {
